@@ -10,4 +10,4 @@ pretty much more airy than you would expect and it has a fountain that makes you
 is modern and elegant but at the same time the décor
 makes you feel like if you were in La Alhambra.</p>
 <p>I really recommend to you to give it a chance, espetially if you want to celebrate a spetial event or maybe succeed
-in a fist date. Just an advice, prepare your wallet because you have to pay for the quality</p>
+in a first date. Just an advice, prepare your wallet because you have to pay for the quality</p>
