@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+Review: Los patos, an oasis in the city
 
-You can use the [editor on GitHub](https://github.com/carlosBabel/review/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carlosBabel/review/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Los Patos is one of my favourite restaurants in Granada because
+it is situated in the center of the city but at the same time looks like you are in the countryside.
+In my opinion it is worth the money since obviously is more expensive
+but you are paying for an exclusive environment and delicious mediterranean food, including a welcoming service.
+You cant just choose one dish from their variated menu. Anything you have from the superb
+menu will accomplish your expectations, like their croquetas
+or their spetial gazpacho.
+Where this restaurant brights the most, is in the interior. It is
+pretty much more airty than you would expect and it has a fountain that makes you feel cool in the summer. The furniture
+are modern and elegant but at the same time the décor
+makes you feel like if you were in La Alhambra.
+I really recommend to you to givi it a chace, espetially if you want to celebrate a spetial event or maybe succeed
+in a fist date. Just prepare your wallet because you have to pay for quality
