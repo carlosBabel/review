@@ -1,4 +1,4 @@
-<p>**Los Patos** is one of my favourite restaurants in Granada because
+<p><b>Los Patos</b> is one of my favourite restaurants in Granada because
 it is situated in the center of the city but at the same time looks like you are in the countryside.</p>
 <br>
 
@@ -7,8 +7,8 @@ but you are paying for an exclusive environment and delicious mediterranean food
 <br>
 
 <p>You cant just choose one dish from their variated menu. Anything you have from the superb
-menu will accomplish your expectations, like their *croquetas*
-or their spetial *gazpacho*.</p>
+menu will accomplish your expectations, like their croquetas
+or their spetial gazpacho.</p>
 <br>
 
 <p>Where this restaurant brights the most, is in the interior. It is
