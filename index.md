@@ -1,7 +1,6 @@
-Review: Los patos, an oasis in the city
-
 Los Patos is one of my favourite restaurants in Granada because
 it is situated in the center of the city but at the same time looks like you are in the countryside.
+<br>
 In my opinion it is worth the money since obviously is more expensive
 but you are paying for an exclusive environment and delicious mediterranean food, including a welcoming service.
 You cant just choose one dish from their variated menu. Anything you have from the superb
